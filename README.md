@@ -102,6 +102,56 @@
   <img alt="image" src="https://github.com/MetalRoze/PlantButler/assets/117638449/aaddf990-f9c8-4d1d-a270-c899dfce178e">
     </td>
   </tr>
+
+  
+  <tr>
+      <th>
+        게시판 메인
+      </th>
+      <th>
+        게시글 쓰기
+      </th>
+      <th>
+        게시글
+      </th>
+  </tr>
+  <tr>
+    <td>
+    <img alt="image" src="https://github.com/user-attachments/assets/3a572f44-3578-41d5-94eb-97ae002f1cd7">
+    </td>
+    <td>
+    <img width="331" alt="image" src="https://github.com/user-attachments/assets/35dab2c9-154a-4bc5-b430-8e1f2137ab48">
+    </td>
+    <td>
+    <img alt="image" src="https://github.com/user-attachments/assets/73df3525-c485-4ee0-9ef0-3638d7612e04">
+    </td>
+  </tr>
+  <tr>
+    <th colspan=3>
+      뉴스 기사
+    </th>
+  </tr>
+  <tr>
+    <th colspan=3>
+      <img width="539" alt="image" src="https://github.com/user-attachments/assets/ca3766c3-68c2-4579-8626-c52a6e77de18">
+      </td>
+  </tr>
+  <tr>
+    <th>
+      상점
+    </th>
+    <th>상품 구매</th>
+    <th>상품 적용</th>
+  </tr>
+  <tr>
+    <td><img width="269" alt="image" src="https://github.com/user-attachments/assets/22ee84f7-f437-47af-9bdf-3d22e164585e">
+
+</td>
+<td><img width="248" alt="image" src="https://github.com/user-attachments/assets/82e841aa-f4c4-4362-8ef4-fd7c180d31af">
+</td>
+<td><img width="226" alt="image" src="https://github.com/user-attachments/assets/d48eec09-72b0-4194-a074-0656f13ef51f">
+</td>
+  </tr>
 </table>
 
 <h2> 👫 팀원 소개 </h2>
